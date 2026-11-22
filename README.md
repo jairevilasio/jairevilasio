@@ -1,9 +1,5 @@
-# Jair Rodrigues
+![Jair Rodrigues — Logística · Front-end](perfil-capa.png)
 
-Sou supervisor de logística na Fromtherm. Trabalho com intralogística, planejamento de materiais e melhoria de processos.
-
-Sempre gostei de desenvolver. Na Fromtherm, comecei criando aplicativos no Glide e hoje também contribuo para a Intranet, com ferramentas que ajudam a equipe a acompanhar ordens de produção e organizar o trabalho.
-
-No desenvolvimento, o front-end é a parte que mais me interessa. Gosto de cuidar do visual e da usabilidade, especialmente quando dá para simplificar uma tela que a equipe usa todo dia.
+Sou supervisor de logística na Fromtherm. Sempre gostei de desenvolver e comecei criando aplicativos no Glide. Hoje também trabalho na nossa Intranet. No front-end, o que mais me interessa é pensar em como a tela fica e em como as pessoas encontram o que precisam.
 
 [LinkedIn](https://www.linkedin.com/in/rodriguesjair/)
